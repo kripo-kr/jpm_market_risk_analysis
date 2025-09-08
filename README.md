@@ -1,1 +1,1 @@
-# jpm_market_risk_analysis
+This project performs a risk and return analysis of JPMorgan Chase & Co. (JPM) compared with the S&P 500 index. The goal is to evaluate JPM’s market risk, volatility, and expected returns using historical stock data and statistical methods.
